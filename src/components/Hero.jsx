@@ -262,7 +262,7 @@ export default function Hero({ onOpenSubmission, onOpenTracker }) {
                   transition: "all 0.3s ease"
                 }}
               >
-                <span style={{ fontSize: "14px" }}></span>Download Event Brochure
+                <span style={{ fontSize: "14px" }}></span>Download Conference Brochure
               </a>
             </div>
 
