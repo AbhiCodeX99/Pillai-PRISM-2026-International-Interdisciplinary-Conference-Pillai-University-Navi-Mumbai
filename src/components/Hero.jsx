@@ -5,7 +5,7 @@ import mainbg from "../assets/mainbg.jpeg";
 import brochurePdf from "../assets/Pillai PRISM 2026.pdf";
 
 export default function Hero({ onOpenSubmission, onOpenTracker }) {
-  const targetDate = new Date("2026-10-04T23:59:59+05:30").getTime();
+  const targetDate = new Date("2026-10-10T23:59:59+05:30").getTime();
 
   const [timeLeft, setTimeLeft] = useState({
     days: "24",
