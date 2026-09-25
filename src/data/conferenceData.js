@@ -1,7 +1,7 @@
 export const conferenceData = {
   name: "Pillai PRISM 2026",
   acronym: "Perspectives.Research.Innovation.Synergy.Multidisciplinary",
-  theme: "Transforming Business and Society through Emerging Technologies, Innovation and Sustainable Development",
+  theme: Transforming Business and Society through Emerging Technologies, Innovation and Sustainable Development,
   conferenceType: "International Conference",
   organizedBy: "School of Computing and School of Business (UG) in collaboration",
   collaborators: [
