@@ -132,7 +132,7 @@ export default function Hero({ onOpenSubmission, onOpenTracker }) {
                   color: "#ffffff"
                 }}
               >
-                "{conferenceData.theme}"
+                {conferenceData.theme}
               </p>
             </div>
 
