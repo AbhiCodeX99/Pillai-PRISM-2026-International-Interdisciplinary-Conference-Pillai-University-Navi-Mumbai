@@ -88,7 +88,7 @@ export default function Hero({ onOpenSubmission, onOpenTracker }) {
               <span className="kicker-pillai" style={{ fontWeight: "700", letterSpacing: "1px" }}>
                 PILLAI UNIVERSITY
               </span>
-              <span className="kicker-sep" style={{ margin: "0 8px", color: "#fbbf24" }}>•</span>
+              <span className="kicker-sep" style={{ margin: "0 8px", color: "#fbbf24" }}>|</span>
               <span className="kicker-collab" style={{ opacity: 0.9 }}>
                 School of Computing & School of Business
               </span>
