@@ -25,7 +25,7 @@ export default function Footer({ onOpenRegister, onOpenSubmission }) {
           </div>
 <br></br>
           <p className="footer-theme-blurb">
-            International conference on - <strong>“Transforming Business and Society through Emerging Technologies, Innovation and Sustainable Development”</strong>
+            International conference on - <strong>Transforming Business and Society through Emerging Technologies, Innovation and Sustainable Development</strong>
           </p>
 
           <p className="footer-collab-blurb">
