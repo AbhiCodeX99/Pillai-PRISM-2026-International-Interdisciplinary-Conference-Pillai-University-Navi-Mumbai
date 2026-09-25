@@ -97,15 +97,15 @@ export const conferenceData = {
 
   organizingTeam: [
  {
-      name: "Mrs. Shubhangi Pawar",
-      phone: "9867631366",
-      email: "shubhangip@mes.ac.in",
-      role: "Organizing Team"
-    },
- {
       name: "Mrs. Anju Somani",
       phone: "9987503837",
       email: "anjusomani@mes.ac.in",
+      role: "Organizing Team"
+    },
+     {
+      name: "Mrs. Shubhangi Pawar",
+      phone: "9867631366",
+      email: "shubhangip@mes.ac.in",
       role: "Organizing Team"
     },
     {
