@@ -312,7 +312,7 @@ export default function Contact() {
               </div>
               <ul style={{ margin: 0, paddingLeft: "20px", fontSize: "14px", color: "#475569", lineHeight: "1.7" }}>
                 <li><strong>Nearest Railway Station:</strong> Panvel Railway Station (~2.5 km)</li>
-                <li><strong>Nearest Airport:</strong> Chhatrapati Shivaji Maharaj International Airport (CSMIA), Mumbai (~38 km)</li>
+                <li><strong>Nearest Airport:</strong>Navi Mumbai International Airport (NMIA) (~10 km)</li>
               </ul>
             </div>
           </div>
